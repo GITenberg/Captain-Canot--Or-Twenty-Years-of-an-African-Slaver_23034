@@ -1,0 +1,37 @@
+_repo: Captain-Canot--Or-Twenty-Years-of-an-African-Slaver_23034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mayer, Brantz
+    birthdate: 1809
+    deathdate: 1879
+    gutenberg_agent_id: '25637'
+    url: http://www.gutenberg.org/2009/agents/25637
+    wikipedia: https://en.wikipedia.org/wiki/Brantz_Mayer
+  - agent_name: Canot, Theodore
+    alias: Canot, Captain
+    birthdate: 1804
+    deathdate: 1860
+    gutenberg_agent_id: '25638'
+    url: http://www.gutenberg.org/2009/agents/25638
+description: ''
+gutenberg_bookshelf:
+- Slavery
+- Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23034'
+  lccn: '12010327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'Slave trade'
+title: Captain Canot; Or, Twenty Years of an African Slaver
+url: http://www.gutenberg.org/ebooks/23034
